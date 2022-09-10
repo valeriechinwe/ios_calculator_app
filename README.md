@@ -1,2 +1,2 @@
 # ios_calculator_app
-Created with HTML, CSS AND Javascript
+Created with HTML, CSS and Javascript
